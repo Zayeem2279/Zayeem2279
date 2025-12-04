@@ -3,10 +3,10 @@
 Welcome to my GitHub portfolio! This repository tracks my journey, projects, and technical growth throughout my three years of study.
 
 ---
-
 ## 🙋‍♂️ About Me
-I am a First-Year Computer Science student at University of southwales. I am passionate about technology and solving real-world problems through code. I am currently building my foundation in programming and looking forward to collaborating on open-source projects.
+I am a First-Year Computer Science student currently studying at University of south wales. As an international student, I view my degree as a global adventure—combining my drive to solve technical problems with my passion for exploring new environments.
 
+My background in violin has taught me that great code, like music, requires both creativity and discipline. I am currently building my technical foundation in software development, computer systems, and information security, and I am excited to apply these skills to real-world projects.
 ## 🔭 What I Am Doing
 I am currently a first-year student focusing on the fundamentals of Computer Science. My current coursework includes:
 
